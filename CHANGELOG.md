@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.98.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.97.0...v0.98.0) (2026-10-26)
+
+
+### Features
+
+* add batch session metadata lookup ([#1408](https://github.com/agentclientprotocol/claude-agent-acp/issues/1408)) ([0ce42f2](https://github.com/agentclientprotocol/claude-agent-acp/commit/0ce42f2c312d190f78024d8b4b1ae5f00d9e5939))
+
 ## [0.97.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.96.0...v0.97.0) (2026-10-26)
 
 
